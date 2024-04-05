@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Jetbrains Mono";
+    src: url("../font/JetBrainsMono.woff2");
+  }
+  @font-face {
+    font-family: "SourceHan Sans";
+    src: url("../font/SourceHanSans.woff2");
+    font-weight: normal;
+    font-style: normal;
+  }
