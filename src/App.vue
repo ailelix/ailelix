@@ -17,7 +17,7 @@ const currentTab = ref('AboutMe');
   <div class="container">
 
     <div class="container-header">
-      <img src="./assets/img/avatar.jpg" />
+      <img src="./assets/avatar.jpg" />
       <span>Ailelix</span>
     </div>
 
@@ -82,7 +82,7 @@ span {
   margin-right: 10px;
   
   color: #f2f2f7;
-  font-family: "Jetbrains Mono", "SourceHan Sans";
+  font-family: "Noto Sans SC";
   font-size: min(4vw, 1.2em);
   
   background-color: #1d1d1f;
@@ -104,7 +104,7 @@ span {
 <style>
 #app {
   width: 100%;
-  font-family: "Jetbrains Mono", "SourceHan Sans";
+  font-family: "Noto Sans SC";
 }
 body {
   background-color: #1d1d1f;
