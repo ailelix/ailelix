@@ -9,7 +9,7 @@
     <p>
       一个监控面板，基于Uptime Kuma<br>
       CF 522属正常现象，请多次刷新<br>
-      （522不是Kuma的问题
+      e.g. 522不是Kuma的问题
     </p>
   </div>
 </template>
