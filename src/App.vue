@@ -111,7 +111,7 @@ span {
   font-family: "Noto Sans SC";
 }
 body {
-  background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.6)), url("./assets/background.jpg") no-repeat center fixed;
+  background: url("./assets/background.jpg") no-repeat center fixed;
   background-size: cover;
 }
 
