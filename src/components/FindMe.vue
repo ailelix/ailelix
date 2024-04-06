@@ -3,11 +3,11 @@
     <a href="https://github.com/ccxxvv77">Github</a>
     <p>
       空荡荡的Contribution，摸鱼的人生
-    </p>
+    </p><hr>
     <a href="mailto:ailelix@ailelix.com">Mail Me</a>
     <p>
       ailelix@ailelix.com
-    </p>
+    </p><hr>
     <a href="https://space.bilibili.com/60282067">Bilibili</a>
     <p>
       应该不会在上面发视频

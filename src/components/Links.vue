@@ -4,7 +4,7 @@
     <p>
       一些零碎的记录，只为了我自己的记录<br>
       Quartz + Obsidian + Cloudflare Pages
-    </p>
+    </p><hr>
     <a href="https://status.ailelix.com">监控面板</a>
     <p>
       一个监控面板，基于Uptime Kuma<br>
