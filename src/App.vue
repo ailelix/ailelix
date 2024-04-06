@@ -45,12 +45,16 @@ const currentTab = ref('AboutMe');
   display: flex;
   flex-direction: column;
 
-  margin-top: 5vw;
-  margin-left: auto;
-  margin-right: auto;
+  padding: min(20px, 2vw);
+
+  border-radius: 20px;
+
+  margin: 5vw auto auto auto;
 
   width: 90vw;
-  max-width: 900px;
+  max-width: 1200px;
+
+  background-color: #1d1d1f;
 }
 .container-header {
   display: flex;
@@ -93,7 +97,7 @@ span {
   color: #00B294;
 }
 .tab-container {
-  padding: 10px 10px 10px 20px;
+  padding: 10px 20px 10px 20px;
   margin-top: 1vh;
 
   border: #f2f2f7 solid 2px;
@@ -107,7 +111,8 @@ span {
   font-family: "Noto Sans SC";
 }
 body {
-  background-color: #1d1d1f;
+  background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.6)), url("./assets/background.jpg") no-repeat center fixed;
+  background-size: cover;
 }
 
 .fade-enter-active,
