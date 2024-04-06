@@ -45,11 +45,11 @@ const currentTab = ref('AboutMe');
   display: flex;
   flex-direction: column;
 
-  padding: min(20px, 2vw);
+  padding: 20px min(20px, 2vw) 20px min(20px, 2vw);
 
   border-radius: 20px;
 
-  margin: 5vw auto auto auto;
+  margin: 7vw auto auto auto;
 
   width: 90vw;
   max-width: 1200px;
@@ -63,8 +63,7 @@ const currentTab = ref('AboutMe');
 
   padding-bottom: 20px;
   border-bottom: #00B294 solid 2px;
-  margin-top: 20px;
-  margin-bottom: 2vh;
+  margin-bottom: 1vh;
 }
 img {
   border-radius: 20px;
@@ -80,8 +79,7 @@ span {
 .tab-selection {
   padding: 10px;
 
-  border: #f2f2f7 solid 2px;
-  border-radius: 10px;
+  border: none;
 
   margin-right: 10px;
   
