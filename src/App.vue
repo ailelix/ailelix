@@ -29,9 +29,9 @@ const currentTab = ref('AboutMe');
         @click="currentTab = tab"
         @mouseup=""
       >{{ tab }}</button>
-      <div class="tab-container">
+      <div>
         <Transition name="fade" mode="out-in">
-            <component :is="listTabs[currentTab]"/>
+          <component class="tab-container" :is="listTabs[currentTab]"/>
         </Transition>
       </div>
     </div>
@@ -49,7 +49,7 @@ const currentTab = ref('AboutMe');
 
   border-radius: 20px;
 
-  margin: 7vw auto auto auto;
+  margin: 15vh auto auto auto;
 
   width: 90vw;
   max-width: 1200px;
@@ -104,8 +104,10 @@ span {
 </style>
 
 <style>
+html {
+  height: 100%;
+}
 #app {
-  width: 100%;
   font-family: "Noto Sans SC";
 }
 body {
