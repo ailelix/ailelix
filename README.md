@@ -4,7 +4,6 @@
 
 # Me
 Homepage: [ailelix.com](https://ailelix.com)  
-Contact: [ailelix@ailelix.com](mailto:ailelix@ailelix.com)
 
 # Tech Stack
 ![Static Badge](https://img.shields.io/badge/Golang-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
