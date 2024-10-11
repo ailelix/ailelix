@@ -3,7 +3,7 @@
     <a href="https://blog.ailelix.com">Ailelix的博客</a>
     <p>
       一些零碎的记录，只为了我自己的记录<br>
-      Quartz + Obsidian + Cloudflare Pages
+      Quartz + Obsidian
     </p>
   </div>
 </template>

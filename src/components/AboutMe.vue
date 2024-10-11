@@ -7,7 +7,7 @@
       <p style="display:inline;margin-left: min(4vw, 1em);">前端Vue，但是不会TS</p><br>
     </p>
     <p style="color: darkgray;">从这个主页你应该看得出我的代码水平有多烂</p>
-    <p>爱好折腾，日用Win11 + NixOS</p>
+    <p>爱好折腾，日用Win11 + <s>NixOS</s> Arch Linux</p>
     <p>喜欢的颜色：<span style="color: #00B294;">#00B294</span>（非常喜欢</p>
   </div>
 </template>

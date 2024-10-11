@@ -6,7 +6,7 @@
     </p><hr>
     <a href="mailto:ailelix@ailelix.com">Mail Me</a>
     <p>
-      ailelix@ailelix.com
+      ailelix@ailelix.com (由于安全问题暂时关了)
     </p><hr>
     <a href="https://space.bilibili.com/60282067">Bilibili</a>
     <p>
