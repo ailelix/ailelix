@@ -4,6 +4,11 @@
     <p>
       一些零碎的记录，只为了我自己的记录<br>
       Quartz + Obsidian
+    </p><hr>
+    <a href="">Ailelix's Service Monitor</a>
+    <p>
+      服务状态监控<br>
+      Powered by UptimeKuma
     </p>
   </div>
 </template>
