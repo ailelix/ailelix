@@ -8,7 +8,7 @@
         </p>
         <p>
             编程苦手，技术栈：
-        </p><br>
+        </p>
         <p style="display:inline;margin-left: min(4vw, 1em);">
             后端Golang C# Python
         </p><br>
