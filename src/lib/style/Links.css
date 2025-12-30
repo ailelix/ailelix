@@ -1,0 +1,13 @@
+a {
+    color: #00B294;
+    font-size: 1.5em;
+    text-decoration-line: none;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+p {
+    color: #f2f2f7;
+    font-size: min(4vw, 1.1em);
+    margin-top: 1vh;
+    margin-left: 1.5em;
+}
