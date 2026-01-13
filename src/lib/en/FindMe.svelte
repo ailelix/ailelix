@@ -15,7 +15,7 @@
             Looking for job opportunities
         </p><hr>
 
-        <a href="https://leetcode.com/u/ailelix/">Leetcode</a>
+        <a href="https://leetcode.com/u/f3lixchen/">Leetcode</a>
         <p>
             AC plz
         </p>
