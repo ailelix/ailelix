@@ -3,7 +3,7 @@
         he/him
     </p>
     <p>
-        First year student at the University of Manchester, studying Computer Science
+        Second year student at the University of Manchester, studying Computer Science
     </p>
     <p>
         Tech Stack:

@@ -18,4 +18,7 @@ Homepage: [felixchen.uk](https://felixchen.uk)
 ![Static Badge](https://img.shields.io/badge/NixOS-%235277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
+![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
